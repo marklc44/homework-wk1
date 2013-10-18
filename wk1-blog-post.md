@@ -1,0 +1,11 @@
+I have been looking forward to the start of this class since FEWD ended six weeks ago. Having built a web application in Javascript, wrangled APIs, created some fancy hover effects and maps, I thought Back End would be no problem. Then the instructor, Gil, announced we were going to come to the front of the class, one by one and introduce ourselves. Gulp. Problem number 1.
+
+He wasn't done. All class work would be done in Linux. Gulp, gulp. I've never used Linux before. Problem number 2. 
+
+Oh yeah, and my mouse was to become a thing of the past. We'd be navigating the file system with the terminal - looking in folders, opening applications, moving and deleting files. The only GUI device available in the terminal is a blocky, insistantly blinking cursor. How archaic. Apple, Microsoft, Google and other mega-think-tanks have spent the last 25 or so years making computers easier to use with ever-evolving GUIs, and we would be eschewing all of those advancements in favor of a 1990-Carmen-San-Diego-style black screen. Problem number 3.
+
+The last doozy of the evening came with the introduction of Git and GitHub. All of our class materials and assignments would be received and submitted using Github. I got hopelessly lost just looking for the button that would take me back to my repositories. Which repository am I looking at? Is it mine? Is it on my computer or on GitHub? Did I just blow up the world, a repository or just some uncommitted file? I can't tell cuz when something works in command line world, nothing happens. No news is good news, Gil says. I like confirmation. Problem number 4. 
+
+I'm being dramatic. By the end of the course, I was zipping up and down directory trees, creating, adding and committing files like a pro. I'm still not entirely sure what I did, but I peddled furiously and didn't fall over, so hopefully I will remember it all next class - like riding a bike.
+
+One thing I liked about Front End was the immediate, visual feedback. You write some code, refresh the page, and either the bouncing red ball moves across the screen, or it doesn't. I get the feeling that Back End victories will be a little more subtle than the dancing colors and images of Front End development. Whereas Front End is the realm of Rock Stars, Back End is definitely the realm of Star Trek. In this class, I'll find out just how nerdy I really am.
